@@ -1,3 +1,5 @@
+//back end
+
 var pingPong = function(userInput) {
   var arrayNumbers = [];
   if (userInput > 0) {
@@ -18,6 +20,7 @@ var pingPong = function(userInput) {
 }
 
 
+//front end
 
 $(document).ready(function() {
   $('form#formOne').submit(function(event) {
