@@ -20,8 +20,8 @@ _{A website created with HTML, CSS, and Javascript that allows users to input a 
 
 ## Setup/Installation Requirements
 
-* _Clone this repository._
-* _Open index.html_
+* _Clone this repository.https://github.com/brandonkudo/pingpong.git_
+* _Open index.html in a browser_
 
 ## Known Bugs
 * _No known bugs at this time._

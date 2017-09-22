@@ -8,6 +8,10 @@
   color: white;
 }
 
+#toptext {
+  color: white;
+}
+
 .well {
   text-align: center;
   background-color: #78a1e2;
@@ -27,14 +31,11 @@ li {
   font-family: 'Pacifico', cursive;
   background-color: #f48484;
   color: white;
-
 }
 
 .btn:hover {
   background-color: #c9e8c5;
   font-family: 'Pacifico', cursive;
-
-
 }
 
 input {
