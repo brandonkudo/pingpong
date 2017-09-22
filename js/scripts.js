@@ -26,7 +26,7 @@ $(document).ready(function() {
     var showResults = function(arrayOutput) {
         $('ul#result').empty();
       arrayOutput.forEach(function(item) {
-        $('ul#result').append('<li>' + item + '</li>');
+        $('ul#result').append('<li class="list-group-item">' + item + '</li>');
       });
       return;
     }

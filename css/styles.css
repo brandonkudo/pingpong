@@ -10,7 +10,28 @@
 
 .well {
   text-align: center;
+  background-color: #78a1e2;
 }
 
 ul {
+  text-align: center;
+}
+
+li {
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+}
+
+.btn {
+  background-color: #d9dddd;
+
+}
+
+.btn:hover {
+  background-color: #c9e8c5;
+
+}
+
+input {
+  text-align: center;
 }
