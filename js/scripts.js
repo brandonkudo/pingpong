@@ -6,7 +6,7 @@ var pingPong = function(number) {
   // } else {
   //   return false;
   // }
-  if ((year % 4 === 0) && (year % 100 !== 0) || (year % 400 === 0)) {
+  if ((number % 3 === 0) && (number % 5 !== 0) || (number % 15 === 0)) {
     return true;
   } else {
     return false;
@@ -19,6 +19,9 @@ $(document).ready(function(){
     var number = parseInt($("input#numberInput")).val());
     var result = pingPong(number);
 
+    $(".number").text(number);
+
+    $("#result").show();
   });
 
 });
