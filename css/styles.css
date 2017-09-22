@@ -1,3 +1,16 @@
-/*#result {
-  display: none;
-}*/
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+
+.jumbotron {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  background-color: #78a1e2;
+  color: white;
+}
+
+.well {
+  text-align: center;
+}
+
+ul {
+}
