@@ -39,6 +39,4 @@ _{Email brandonkudo@gmail.com with any questions, comments, or concerns.}_
 
 ### License
 
-*{This software is licensed under the MIT license}*
-
 Copyright (c) 2017 **_{Brandon Kudo}_**
