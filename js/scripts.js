@@ -9,10 +9,10 @@ var pingPong = function(userInput) {
       arrayNumbers.forEach(function(number) {
         if (number % 15 === 0) {
           arrayNumbers[number-1] = 'ping-pong';
-        } else if (number % 3 === 0) {
-          arrayNumbers[number-1] = 'ping';
         } else if (number % 5 === 0) {
           arrayNumbers[number-1] = 'pong';
+        } else if (number % 3 === 0) {
+          arrayNumbers[number-1] = 'ping';
         }
       });
   }
